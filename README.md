@@ -12,6 +12,7 @@ Funções e Métodos
 
 Funcionalidades
 
+
 O jogo permite ao jogador realizar várias ações no mundo do RPG, incluindo:
 
 Criação de Personagens
@@ -21,6 +22,10 @@ Batalhas Contra Inimigos
 Uso de Poções
 
 Compras na Loja
+
+
+
+
 
 1. Criação de Personagens
 
@@ -42,11 +47,19 @@ A loja oferece itens valiosos, como poções, que podem ser compradas pelo jogad
 
 As poções adquiridas na loja podem ser usadas para restaurar a saúde ou aumentar os atributos do personagem. Isso adiciona uma camada estratégica ao combate, pois o jogador deve decidir quando e como usar seus recursos de forma eficiente.
 
+
+
+
 Estrutura do Código
 
 O código é composto por diversas classes, funções e módulos que trabalham em conjunto para criar uma experiência de jogo fluida e dinâmica.
 
+
+
+
+
 Arquivos Principais
+
 
 main.py: Arquivo principal que contém a lógica do jogo, incluindo a interação com o jogador, batalhas, loja e o uso de poções.
 
