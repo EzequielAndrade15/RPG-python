@@ -1,4 +1,4 @@
-RPG Game in Python
+# RPG Game in Python
 
 Este projeto é um Jogo RPG desenvolvido em Python, utilizando Programação Orientada a Objetos (POO). O objetivo do jogo é oferecer uma experiência interativa onde o jogador pode criar seu personagem, enfrentar inimigos, ganhar experiência e adquirir itens em uma loja.
 
